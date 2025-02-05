@@ -14,7 +14,7 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
-          {i18n(cfg.locale).components.footer.createdWith}{" "}
+          {i18n(cfg.locale).components.footer.createdBy}{" "}
           <a href="https://github.com/Wrisc-16">Wrisc</a> © {year}
         </p>
         <ul>
