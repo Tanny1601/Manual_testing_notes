@@ -3,7 +3,7 @@
 
 ### **Learning Path for Manual Software Testing**  
 #### **1. Foundational Concepts**  
-- **What is Software Testing?**  
+- ** is Software Testing?**  
   Understand the purpose, objectives, and importance of testing in the software development lifecycle (SDLC). Learn key terms like errors, defects, and failures .  
   - *Resources*:  
     - **Software Testing Material’s Tutorial** ([link](https://www.softwaretestingmaterial.com/manual-testing-tutorial/)): Covers SDLC, STLC, testing principles, and types (functional, non-functional, regression, etc.) .  
